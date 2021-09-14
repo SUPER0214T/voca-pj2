@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/voca-pj2/static/css/main.066fc2d7.chunk.css",
-    "main.js": "/voca-pj2/static/js/main.f049d2af.chunk.js",
-    "main.js.map": "/voca-pj2/static/js/main.f049d2af.chunk.js.map",
+    "main.js": "/voca-pj2/static/js/main.4a701c6c.chunk.js",
+    "main.js.map": "/voca-pj2/static/js/main.4a701c6c.chunk.js.map",
     "runtime-main.js": "/voca-pj2/static/js/runtime-main.8e558d7f.js",
     "runtime-main.js.map": "/voca-pj2/static/js/runtime-main.8e558d7f.js.map",
     "static/js/2.bc12e140.chunk.js": "/voca-pj2/static/js/2.bc12e140.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8e558d7f.js",
     "static/js/2.bc12e140.chunk.js",
     "static/css/main.066fc2d7.chunk.css",
-    "static/js/main.f049d2af.chunk.js"
+    "static/js/main.4a701c6c.chunk.js"
   ]
 }
