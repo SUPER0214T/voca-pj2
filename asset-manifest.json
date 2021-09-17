@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/voca-pj2/static/css/main.6bdeb386.chunk.css",
-    "main.js": "/voca-pj2/static/js/main.a09b3e6e.chunk.js",
-    "main.js.map": "/voca-pj2/static/js/main.a09b3e6e.chunk.js.map",
+    "main.css": "/voca-pj2/static/css/main.e817d663.chunk.css",
+    "main.js": "/voca-pj2/static/js/main.333762ba.chunk.js",
+    "main.js.map": "/voca-pj2/static/js/main.333762ba.chunk.js.map",
     "runtime-main.js": "/voca-pj2/static/js/runtime-main.8e558d7f.js",
     "runtime-main.js.map": "/voca-pj2/static/js/runtime-main.8e558d7f.js.map",
     "static/js/2.bc12e140.chunk.js": "/voca-pj2/static/js/2.bc12e140.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.83da20d3.chunk.js": "/voca-pj2/static/js/3.83da20d3.chunk.js",
     "static/js/3.83da20d3.chunk.js.map": "/voca-pj2/static/js/3.83da20d3.chunk.js.map",
     "index.html": "/voca-pj2/index.html",
-    "static/css/main.6bdeb386.chunk.css.map": "/voca-pj2/static/css/main.6bdeb386.chunk.css.map",
+    "static/css/main.e817d663.chunk.css.map": "/voca-pj2/static/css/main.e817d663.chunk.css.map",
     "static/js/2.bc12e140.chunk.js.LICENSE.txt": "/voca-pj2/static/js/2.bc12e140.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8e558d7f.js",
     "static/js/2.bc12e140.chunk.js",
-    "static/css/main.6bdeb386.chunk.css",
-    "static/js/main.a09b3e6e.chunk.js"
+    "static/css/main.e817d663.chunk.css",
+    "static/js/main.333762ba.chunk.js"
   ]
 }
